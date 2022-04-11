@@ -1,0 +1,1 @@
+AgalarBot-Venv\Scripts\python AgalarBot.py
